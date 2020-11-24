@@ -1,5 +1,5 @@
 ## Basic overview
-
+test
 `./configure.py` generates the `build.ninja` files used to build
 ninja.  It accepts various flags to adjust build parameters.
 Run './configure.py --help' for more configuration options.
